@@ -24,4 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "carbon"
 include(":app")
- 
+include(":app")
